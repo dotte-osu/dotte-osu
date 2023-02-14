@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Eriko
-- 👀 I’m interested in creating a web app with database.
-- 🌱 I’m currently learning computer science at Oregon State University!
-- 💞️ I’m looking to collaborate on a web app project.
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/eriko-dott-0628299b
 
 <!---
 dotte-osu/dotte-osu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
